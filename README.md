@@ -1,0 +1,2 @@
+# alagu
+setting up git
